@@ -144,6 +144,8 @@ $function$
 -- create  trigger video_check and section_check 
 --  when user update on video_check go to update the section_check and learning_check 
 
+-- I will do this tmr  
+
 
 
 
